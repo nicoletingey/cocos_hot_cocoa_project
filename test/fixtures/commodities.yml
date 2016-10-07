@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Pouches: MyString
+  Mugs: MyString
+  Clothing: MyString
+
+two:
+  Pouches: MyString
+  Mugs: MyString
+  Clothing: MyString

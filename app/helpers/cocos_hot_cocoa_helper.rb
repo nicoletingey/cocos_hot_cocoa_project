@@ -1,0 +1,2 @@
+module CocosHotCocoaHelper
+end

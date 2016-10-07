@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Pouches:</strong>
+  <%= @commodity.Pouches %>
+</p>
+
+<p>
+  <strong>Mugs:</strong>
+  <%= @commodity.Mugs %>
+</p>
+
+<p>
+  <strong>Clothing:</strong>
+  <%= @commodity.Clothing %>
+</p>
+
+<%= link_to 'Edit', edit_commodity_path(@commodity) %> |
+<%= link_to 'Back', commodities_path %>
